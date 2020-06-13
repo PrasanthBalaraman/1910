@@ -1,10 +1,10 @@
-name: "Prasanth's Data Journal"
+name: "Prasanth's Blog"
 navbar:
-  title: "Prasanth's Data Journal"
+  title: "Prasanth's Blog"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Blog"
       href: Journal.html
     - text: "Links"
       href: Links.html
