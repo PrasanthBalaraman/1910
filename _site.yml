@@ -1,6 +1,6 @@
-name: "My Data Journal"
+name: "Prasanth's Data Journal"
 navbar:
-  title: "My Data Journal"
+  title: "Prasanth's Data Journal"
   left:
     - text: "Home"
       href: index.html
