@@ -25,7 +25,7 @@ output: html_document
 </div>
 <div class="col-sm-6">
 
-<a href = "https://crumplab.github.io">
+<a href = "https://prasanthbalaraman.github.io/1910/">
 ![](images/logo.png)
 </a>
 </div>
