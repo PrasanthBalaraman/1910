@@ -24,7 +24,7 @@ Before the begining of 20th century, statistics meant observed data and descript
 The major steps that led to the establishment and recognition of statistics as a seperate scientific discipline and an inevitable tool in improving natural knowledge were made by Ronald Aylmer Fisher during the decade 1915-1925. Most of the concepts and methods introduced by Fisher are fundamental and continue to provide the framework for the statistical theory. Fisher's work is monumental, both richness and variety of ideas, and provided the inspiration for phenomenal developments in statistical methodology for applications in all areas of human endeavour during last 105 years. 
 
 
-<a href = "www.jstor.org/stable/2245989">Rao, C. Radhakrishna. “R. A. Fisher: The Founder of Modern Statistics.” Statistical Science, vol. 7, no. 1, 1992, pp. 34–48. JSTOR, . Accessed 14 June 2020.</a>
+<a href = "https://www.jstor.org/stable/2245989">Rao, C. Radhakrishna. “R. A. Fisher: The Founder of Modern Statistics.” Statistical Science, vol. 7, no. 1, 1992, pp. 34–48. JSTOR, . Accessed 14 June 2020.</a>
 
 
 </div>
